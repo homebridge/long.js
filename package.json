@@ -1,14 +1,14 @@
 {
-  "name": "long",
-  "version": "0.0.0",
+  "name": "@homebridge/long",
+  "version": "5.2.0",
   "author": "Daniel Wirtz <dcode@dcode.io>",
   "description": "A Long class for representing a 64-bit two's-complement integer value.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dcodeIO/long.js.git"
+    "url": "https://github.com/homebridge/long.js.git"
   },
   "bugs": {
-    "url": "https://github.com/dcodeIO/long.js/issues"
+    "url": "https://github.com/homebridge/long.js/issues"
   },
   "keywords": [
     "math",

@@ -6,6 +6,12 @@ for stand-alone use and extended with unsigned support.
 
 [![Build Status](https://img.shields.io/github/workflow/status/dcodeIO/long.js/Test/main?label=test&logo=github)](https://github.com/dcodeIO/long.js/actions?query=workflow%3ATest) [![Publish Status](https://img.shields.io/github/workflow/status/dcodeIO/long.js/Publish/main?label=publish&logo=github)](https://github.com/dcodeIO/long.js/actions?query=workflow%3APublish) [![npm](https://img.shields.io/npm/v/long.svg?label=npm&color=007acc&logo=npm)](https://www.npmjs.com/package/long)
 
+Fork Status
+---------
+
+This fork is maintained to work around a crash on `ARMv6` platforms running node 16.1+.
+See [long.js/107](https://github.com/dcodeIO/long.js/issues/107).
+
 Background
 ----------
 
